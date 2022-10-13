@@ -1,0 +1,32 @@
+
+//; 
+auto_convert_profiles=false
+
+//; 
+generate_hamlets=false
+
+//; 
+generate_travel_book_export=false
+
+//; 
+travel_book_learning=true
+
+//; 
+generate_help_data=false
+
+//; 
+ignore_resource_cost=false
+
+//Unique random identifier to count unique players if statistics are enabled
+random_uid=1250819651453694976
+
+//Advancement completed for anonymous statistics
+advancements_creative=firstcontact,summoningwand,explorer,marcopolo
+
+//Advancement completed for anonymous statistics
+advancements_survival=firstcontact,cresus,summoningwand,explorer,marcopolo,darkside,scipio,cheers,hired,masterfarmer,friendindeed,rep_japanese,rep_byzantines,complete_byzantines,leader_byzantines
+
+//Chunk Loaded Radius; Radius around the player in which Millénaire will attempt to keep villages' chunks loaded. Default: 300.
+keep_active_radius=0
+
+validation=346191569
